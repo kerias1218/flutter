@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:english_words/english_words.dart';
 import 'package:flutter_app/src/saved.dart';
 
-
 class RandomList extends StatefulWidget {
   @override
   State<StatefulWidget> createState() => _RandomListState();
